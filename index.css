@@ -1,0 +1,12 @@
+.myslider1 {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.myslider1 .slide-img {
+
+    width: 300px;
+    height: 200px;
+}
+
